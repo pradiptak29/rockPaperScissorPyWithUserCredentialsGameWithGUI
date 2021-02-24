@@ -1,3 +1,4 @@
+# rock paper scissor with user credentials
 from tkinter import *
 from PIL import Image, ImageTk, ImageFile
 from random import randint
